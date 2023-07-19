@@ -1,0 +1,42 @@
+{
+  "name": "react-native-zendesk-ichat",
+  "title": "React Native Zendesk Chat",
+  "version": "1.0.0",
+  "description": "Simple module that allows displaying Zopim Chat from Zendesk for React Native in the latest versions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtito1992/react-native-zendesk-ichat.git",
+    "baseUrl": "https://github.com/davidtito1992/react-native-zendesk-ichat.git"
+  },
+  "keywords": [
+    "react-native-zendesk-chat",
+    "react-native-zopim-chat",
+    "rn-zendesk-chat",
+    "react-native-zendesk",
+    "react-native-zendesk-chat-android",
+    "react-native-zendesk-chat-ios"
+  ],
+  "author": {
+    "name": "David Tito",
+    "email": "davidtito1992@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/davidtito1992/react-native-zendesk-ichat/issues"
+  },
+  "homepage": "https://github.com/davidtito1992/react-native-zendesk-ichat#readme",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
