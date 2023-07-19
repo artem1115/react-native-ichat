@@ -62,23 +62,3 @@ Follow the instructions to install the SDK for iOS and Android.
   	```
       compile project(':react-native-zendesk-ichat')
   	```
-
-## 👍 Contribute
-
-Show your ❤️ and support by giving a ⭐. Any suggestions and pull request are welcome !
-
-### 📝 License
-
-MIT © [DavidTito](https://github.com/davidtito1992)
-
-## :rocket: Usage
-```javascript
-import RNZendeskChat from 'react-native-zendesk-ichat';
-
-RNZendeskChat.startChat({
-            name: 'someName',
-            email: 'someEmail',
-            phone: 'somePhone',
-            tags: ['someTag1', 'someTag2']
-          })
-```
